@@ -1,0 +1,1 @@
+export const invalidUrl: string = 'https://ultimateqa.com/automation/fake-pricing-page/#top'
